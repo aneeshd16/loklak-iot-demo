@@ -1,0 +1,17 @@
+{
+  "name": "loklak-iot-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aneeshd16",
+  "license": "ISC",
+  "dependencies": {
+    "espeak": "0.0.3",
+    "loklak": "^1.1.0",
+    "play-sound": "0.0.7",
+    "sleep": "^3.0.1"
+  }
+}
